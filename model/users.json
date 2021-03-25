@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": "55",
+      "email": "JohnDoe@mail.com",
+      "password": "123456",
+      "hobbies": [
+        "reading",
+        "music",
+        "sports"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "John Liu",
+      "age": "75",
+      "email": "JohnLiu@mail.com",
+      "password": "123",
+      "hobbies": [
+        "reading",
+        "sports"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "John Ryu",
+      "age": "54",
+      "email": "JohnRyu@mail.com",
+      "password": "2468",
+      "hobbies": [
+        "music",
+        "movies"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "John Trieu",
+      "age": "89",
+      "email": "JohnTrieu@mail.com",
+      "password": "13579",
+      "hobbies": [
+        "cooking",
+        "sports"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "John Mayer",
+      "age": "53",
+      "email": "JohnMayer@mail.com",
+      "password": "6789",
+      "hobbies": [
+        "movies",
+        "sports"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "John Bizz",
+      "age": "22",
+      "email": "JohnBizz@mail.com",
+      "password": "123",
+      "hobbies": [
+        "reading",
+        "music"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "John Oak",
+      "age": "95",
+      "email": "JohnOak@mail.com",
+      "password": "456",
+      "hobbies": [
+        "music",
+        "games"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "John Address",
+      "age": "49",
+      "email": "JohnAddress@mail.com",
+      "password": "789",
+      "hobbies": [
+        "reading",
+        "cooking"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "John Cage",
+      "age": "35",
+      "email": "JohnCage@mail.com",
+      "password": "1234567",
+      "hobbies": [
+        "acting",
+        "games"
+      ]
+    }
+  ]
+}
